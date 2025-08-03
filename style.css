@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  background: #f0f0f0;
+  text-align: center;
+}
+img {
+  width: 90%;
+  max-width: 600px;
+  margin: 20px 0;
+  box-shadow: 0 0 5px #aaa;
+}
